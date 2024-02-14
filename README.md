@@ -27,5 +27,5 @@ pnpm install && pnpm tauri dev
 
 ## Install
 ```
-pnpm tauri build
+pnpm tauri build 
 ```
